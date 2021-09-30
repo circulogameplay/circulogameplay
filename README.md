@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Victor (Círculo)
+### Olá! Eu sou o/a Alex (Círculo)
 
 - 🔭 Trabalho apenas com o front-end (por enquanto)
 - 🌱 Estudando NodeJS e SQL 
