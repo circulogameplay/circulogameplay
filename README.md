@@ -1,6 +1,6 @@
 ### Olá! Sou Alex Cafiero, prazer em conhecer!
 
-Sou uma tradutora linguístico apaixonado por conectar culturas e idiomas através da palavra escrita. Minha expertise inclui traduções do inglês para o português e do português para o espanhol, com foco em proporcionar comunicação clara e autêntica.
+Sou uma tradutora linguística apaixonada por conectar culturas e idiomas através da palavra escrita. Minha expertise inclui traduções do inglês para o português e do português para o espanhol, com foco em proporcionar comunicação clara e autêntica.
 
 
 📚 Idiomas:
