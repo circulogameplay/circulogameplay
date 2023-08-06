@@ -1,27 +1,33 @@
-### Olá! Eu sou o/a Alex (Círculo)
+### Olá! Sou Alex Cafiero, prazer em conhecer!
 
-- 🔭 Trabalho apenas com o front-end (por enquanto)
-- 🌱 Estudando NodeJS e SQL 
-- 😄 Pronouns: Ele/Ela
+Sou uma tradutora linguístico apaixonado por conectar culturas e idiomas através da palavra escrita. Minha expertise inclui traduções do inglês para o português e do português para o espanhol, com foco em proporcionar comunicação clara e autêntica.
 
- <div>
-  <a href="https://github.com/circulogameplay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=circulogameplay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circulogameplay&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Ciorculo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Circulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Circulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Circulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> 
-  
- ##
- <div>
-  <a href="https://instagram.com/joaovictormq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/circulo_gameplay" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>   
-   <a href="https://www.twitter.com/circulogameplay" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-</div>
-  
-   ![Snake animation](https://github.com/circulogameplay/circulogameplay/blob/output/github-contribution-grid-snake.svg)
+
+📚 Idiomas:
+- Inglês: Fluência avançada
+- Português: Língua materna
+- Espanhol: Competência intermediária
+
+🔍 Habilidades:
+- Tradução precisa e coerente
+- Adaptação cultural e contextual
+- Revisão e edição de textos
+- Pesquisa terminológica
+
+🌐 Portfólio:
+Confira meus trabalhos recentes e projetos de tradução no meu site pessoal 
+
+📖 Educação:
+- Graduação em Letras com ênfase em Tradução (UFMG)
+- Cursos de aprimoramento em tradução e linguística
+
+💼 Experiência:
+- Tradução freelance para diversos clientes e agências
+- Colaboração em projetos de localização de software
+- Participação ativa em comunidades de tradutores
+
+📧 Contato:
+Ficarei feliz em ajudar com suas necessidades de tradução. Entre em contato através do meu email: joaovictormq@gmail.com
+
+🚀 Compromisso:
+Estou em constante aprimoramento para oferecer traduções de alta qualidade, fiéis ao contexto original e às nuances culturais. Minha paixão pela linguagem me impulsiona a entregar resultados que atendam às expectativas dos clientes.
